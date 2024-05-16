@@ -2,9 +2,22 @@ body{
     background-image: url(MenuBackground.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    color: lightyellow;
+    color: gold;
+    
 }
 h1{
     text-align: center;
     text-shadow: 2px 2px 5px orange ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    background-color: black;
+    border: 2px solid gold;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+p{
+    margin: 10px;
+    background-color: gray;
 }
