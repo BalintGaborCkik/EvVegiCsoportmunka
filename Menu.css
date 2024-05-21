@@ -16,6 +16,8 @@ table{
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
+    text-align: center;
+    border-collapse: collapse;
 }
 td{
     margin: 1%
@@ -25,5 +27,5 @@ p{
     background-color: gray;
 }
 img{
-    width: 20%;
+    width: 40%;
 }
