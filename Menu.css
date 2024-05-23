@@ -7,12 +7,13 @@ body{
 }
 h1{
     text-align: center;
-    text-shadow: 2px 2px 5px orange ;
+    text-shadow:  2px 2px 2px orange ;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
 }
 table{
     background-color: black;
-    border: 2px solid gold;
+    border: 3 solid gold;
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
@@ -20,12 +21,23 @@ table{
     border-collapse: collapse;
 }
 td{
-    margin: 1%
+    margin: 3px;
 }
 p{
-    margin: 10px;
+    margin: 5%;
     background-color: gray;
+    border: solid 2px black;
+    padding: 5px;
 }
 img{
-    width: 40%;
+    width: 20%;
+}
+th, td{
+    border: solid 3px gold;
+    border-collapse: collapse;
+}
+.Cím{
+    text-shadow: 1px 1px 1px orange ;
+    font-weight: bold;
+   
 }
